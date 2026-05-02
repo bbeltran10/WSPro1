@@ -45,6 +45,8 @@ This responsive and visually engaging site is designed to highlight branding, il
 4. Use the contact form to send an email (requires a configured local email client).
 
 ---
+<img width="1920" height="1241" alt="image" src="https://github.com/user-attachments/assets/d80b1a63-f5b8-474d-961b-658827f0f6b1" />
+
 
 ## Author
 **Bianca L. Beltran**  
